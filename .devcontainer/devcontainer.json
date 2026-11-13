@@ -1,1 +1,5 @@
-{"name":"API de libros","image":"maven:3.9-eclipse-temurin-21","forwardPorts":[8080]}
+{
+    "name":"API de libros",
+    "image":"maven:3.9-eclipse-temurin-21",
+    "forwardPorts":[8080]
+}
